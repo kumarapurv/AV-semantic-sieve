@@ -1,6 +1,6 @@
 # **AV Semantic Sieve: Intelligent Edge Data Uplift for L4 Autonomy**
 
-### **Inspired by the Strategic AI Pipeline for VW ADMT**
+### **Inspired by latest challenges in AI Pipelines for AV 2.0**
 
 This project implements a **"Smart Sieve"** architecture designed to solve the "Data Tsunami" problem in Autonomous Driving. Instead of uploading every gigabyte of nominal driving data, this pipeline utilizes **Edge Uncertainty Quantification** and **Vision-Language Models (VLMs)** to identify and justify the "uplift" of high-signal long-tail edge cases.
 
