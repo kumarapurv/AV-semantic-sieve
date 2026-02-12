@@ -1,0 +1,9 @@
+﻿nuscenes-devkit
+ultralytics
+mlx-vlm
+mlx
+torch
+torchvision
+opencv-python
+matplotlib
+Pillow

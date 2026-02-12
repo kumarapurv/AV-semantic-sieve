@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+pycache/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+conda-env/
+
+# Datasets (Extremely Large)
+data/
+nuimages/
+samples/
+v1.0-*/
+
+# Local Weights & Models
+*.pt
+*.pth
+*.weights
+yolov8n.pt
+
+# Portfolio Output (Optional - remove if you want to track examples)
+portfolio_results/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
